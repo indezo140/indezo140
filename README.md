@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @indezo140
-- 👀 I’m interested in Game Development on Unreal Engine
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Game Development on Unity
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
